@@ -16,8 +16,7 @@ public class ArrayNilai20 {
                 System.out.println("Mahasiswa ke-"+i+" lulus!");
             } else {
                 System.out.println("Mahasiswa ke-"+i+ " tidak lulus!");
-            }
-            
+            } 
         }
     }
     
